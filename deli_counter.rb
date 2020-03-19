@@ -31,12 +31,13 @@ def take_a_number(list, name)
 end
 
 def excitement(list)
+  a = []
   if list.length != 0
     puts "The list is empty"
   else
     list.each_with_index do |n, i|
-      list[i] = n + "!"
+      a[i] = n + "!"
     end
   end
-  list
+  a
 end 
