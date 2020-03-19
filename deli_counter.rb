@@ -41,3 +41,5 @@ def excitement(list)
   end
   a
 end 
+
+excitment(['Amenda', 'Bob'])
