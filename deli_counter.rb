@@ -34,7 +34,9 @@ def excitement(list)
   if list.length != 0
     puts "The list is empty"
   else
-    
+    list.each_with_index do |n, i|
+      list[i] = 
+    end
   end
   
 end 
