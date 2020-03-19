@@ -32,7 +32,9 @@ end
 
 def excitement(list)
   if list.length != 0
-  else 
-end
+    puts "The list is empty"
+  else
+    
+  end
   
 end 
