@@ -42,4 +42,4 @@ def excitement(list)
   a
 end 
 
-excitement(['Amenda', 'Bob'])
+puts excitement(['Amenda', 'Bob'])
