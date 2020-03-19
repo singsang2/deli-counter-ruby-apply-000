@@ -30,3 +30,9 @@ def take_a_number(list, name)
   puts "Welcome, #{name}. You are number #{list.length} in line."
 end
 
+def excitement(list)
+  if list.length != 0
+  else 
+end
+  
+end 
