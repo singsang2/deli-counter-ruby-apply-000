@@ -32,7 +32,7 @@ end
 
 def excitement(list)
   a = []
-  if list.length != 0
+  if list.length == 0
     puts "The list is empty"
   else
     list.each do |n|
